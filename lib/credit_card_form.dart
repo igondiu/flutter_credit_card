@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:flutter_credit_card/flutter_credit_card.dart';
-import 'package:baguette_express_client/src/Shared/buttons.dart';
+import 'package:baguette_express_v2/src/Shared/buttons.dart';
 import 'credit_card_model.dart';
-import 'package:baguette_express_client/src/Shared/colors.dart';
+import 'package:baguette_express_v2/src/Shared/colors.dart';
 
 
 class CreditCardForm extends StatefulWidget {
